@@ -1,0 +1,14 @@
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\bin\Debug\netcoreapp3.1\PrimeNumberApp.exe
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\bin\Debug\netcoreapp3.1\PrimeNumberApp.deps.json
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\bin\Debug\netcoreapp3.1\PrimeNumberApp.runtimeconfig.json
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\bin\Debug\netcoreapp3.1\PrimeNumberApp.runtimeconfig.dev.json
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\bin\Debug\netcoreapp3.1\PrimeNumberApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\bin\Debug\netcoreapp3.1\PrimeNumberApp.pdb
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.csproj.AssemblyReference.cache
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.AssemblyInfoInputs.cache
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.AssemblyInfo.cs
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.pdb
+C:\Users\jacek\OneDrive\Desktop\C#\PrimeNumberApp\PrimeNumberApp\obj\Debug\netcoreapp3.1\PrimeNumberApp.genruntimeconfig.cache
